@@ -99,9 +99,3 @@ class Vector:
 > 适当的署名：您必须提供创作者和署名者的姓名或名称、版权标识、许可协议标识、免责标识和作品链接。
 >
 > 商业目的：主要目的为获得商业优势或金钱回报。
-
----
-
-本系列文章开源发布于 Github，传送门：[Python魔法方法指南](https://github.com/stacklens/python-magic-method-cookbook)
-
-看完文章想吐槽？欢迎来 [Issues](https://github.com/stacklens/python-magic-method-cookbook/issues) 告诉我。
