@@ -1,7 +1,9 @@
+![](\img\header.jpg)
+
 [![](https://img.shields.io/badge/python-3.8-orange.svg)](https://www.python.org/downloads/release/python-370/)
 [![](https://img.shields.io/badge/license-CC_BY_NC_4.0-000000.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-# Python魔法方法指南
+## Python魔法方法漫游指南
 
 **这个库是个啥？**
 
