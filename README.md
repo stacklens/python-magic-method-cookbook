@@ -1,4 +1,4 @@
-![](\img\header.jpg)
+![](img/header.jpg)
 
 [![](https://img.shields.io/badge/python-3.8-orange.svg)](https://www.python.org/downloads/release/python-370/)
 [![](https://img.shields.io/badge/license-CC_BY_NC_4.0-000000.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
