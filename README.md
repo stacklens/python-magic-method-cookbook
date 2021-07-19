@@ -81,6 +81,8 @@ class Vector:
 
 ![](https://blog.dusaiphoto.com/QR-0608.jpg)
 
+此外，本系列文章也会同步发布在[我的博客](https://www.dusaiphoto.com/topic/)。博客主要发布 Python 或 Django 的教程，欢迎围观。
+
 ## 许可协议
 
 本教程（包括且不限于文章、代码、图片等内容）遵守 **署名-非商业性使用 4.0 国际 (CC BY-NC 4.0) 协议**。协议内容如下。
